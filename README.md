@@ -17,3 +17,10 @@ Here are some example categories my writing might cover:
 I'm always open to feedback or collaboration. Feel free to:
 - Open an [Issue](https://github.com/yourusername/your-repo/issues) for suggestions, corrections, or questions.
 - Submit a Pull Request if you'd like to contribute or improve any article.
+
+## 🙋‍♂️ About Me
+
+I'm **Akshit Wadhwa**, a tech enthusiast who loves writing about what I learn.  
+You can connect with me here:
+
+- 📧 Email: [akshitwadhwa06@gmail.com]
